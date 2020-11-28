@@ -12,6 +12,7 @@
 
 ## How to Connect to H2 DB 
 - http://localhost:8080/h2-console/
+- JDBC URL should be: jdbc:h2:mem:testdb
 - Then click connect
 
 
